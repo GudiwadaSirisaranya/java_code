@@ -1,7 +1,7 @@
-Class Test
+class Test
   {
-    public static void main(String args[])
+    public static Void main(String args[])
       {
-        System.out.println("java github jenkins")
+        System.out.println("java github jenkins");
           }
 }
